@@ -10,7 +10,7 @@ A simple and lightweight Android home screen widget that displays the number of 
 - No manual refresh required
 
 ## Screenshots
-*(Add screenshots here)*
+![Widget Preview](Screenshot.jpg)
 
 ## Installation
 1. Clone this repository:
